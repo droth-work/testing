@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="referrer" content="unsafe-url">
+</head>
+<body>
+  <script>
+    window.location.replace('https://chimerical-belekoy-6532f9.netlify.app/test4.html');
+  </script>
+</body>
+</html>
